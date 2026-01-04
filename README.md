@@ -24,7 +24,7 @@ SQLite (Database)
 
 Clone the repository:
 
-git clone [https://github.com/ima_ne_0/BudgetMaster.git](https://github.com/ima_ne_0/BudgetMaster.git)
+git clone [https://github.com/ima-ne-0/BudgetMaster.git](https://github.com/ima-ne-0/BudgetMaster.git)
 cd BudgetMaster
 
 
